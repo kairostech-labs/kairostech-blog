@@ -99,5 +99,5 @@ but it captures some cyclical movements quite well.
 
 ## Source code
 
-Don't just take my word for it.
-To see the source code for the calculations, open the Jupyter notebook here on [github](https://github.com/kairostech-labs/kairostech/blob/main/notebooks/cycles/benner_yahoo_weekly.ipynb).
+Don't take my word for it.
+To see the source code, open the Jupyter notebook here on [github](https://github.com/kairostech-labs/kairostech-blog/blob/main/notebooks/cycles/benner_yahoo_weekly.ipynb).
