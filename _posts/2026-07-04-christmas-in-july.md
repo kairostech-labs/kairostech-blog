@@ -52,4 +52,4 @@ Omega Ratio                                     1.167953
 Sortino Ratio                                   0.763042
 ```
 
-![newplot.png](assets/images/christmas_in_july/newplot.png)
+![newplot.png](/assets/images/christmas_in_july/newplot.png)
